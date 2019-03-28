@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">LogicaApp</string>
+    <string name="True">T</string>
+    <string name="False">F</string>
+    
+    <string name="Negation">Negation (NOT)</string>
+    <string name="NOT">¬</string>
+
+    <string name="Conjunction">Conjunction (AND)</string>
+    <string name="AND">A ∧ B</string>
+
+    <string name="Disjunction">Disjunction (OR)</string>
+    <string name="OR">A ∨ B</string>
+
+    <string name="Alternative_denial">Alternative denial (NAND)</string>
+    <string name="NAND">A ↑ B</string>
+
+    <string name="Joint_denial">Joint denial (NOR)</string>
+    <string name="NOR">A ↓ B</string>
+
+    <string name="Exclusive_or">Exclusive or (XOR)</string>
+    <string name="XOR"></string>
+
+    <string name="Biconditional">Biconditional (XNOR)</string>
+    <string name="XNOR"></string>
+</resources>
